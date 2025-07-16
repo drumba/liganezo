@@ -2,7 +2,18 @@
   "links": [
     {
       "name": "RTL",
-      "link": "https://play4you.icu/e/8bb04c766c"
+      "link": "https://play4you.icu/e/8bb04c766c",
+      "lang": "hu"
+    },
+    {
+      "name": "M4 Sport",
+      "link": "https://play4you.icu/e/r4a6g0bb5t",
+      "lang": "hu"
+    },
+    {
+      "name": "M4 Sport+ / Duna World",
+      "link": "https://play4you.icu/e/r3a5t0bf0s",
+      "lang": "hu"
     }
   ]
 }
